@@ -1,6 +1,6 @@
 # Stopwatch Timer Application
 
-A clean, responsive stopwatch application built with vanilla JavaScript, HTML, and CSS. The application features a sleek design with a pulsing timer display and lap recording functionality.
+A clean, responsive stopwatch application built with vanilla JavaScript, HTML, and CSS. The application features a sleek and modern design with a pulsing timer display and lap recording functionality.
 
 
 
